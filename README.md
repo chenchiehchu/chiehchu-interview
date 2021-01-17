@@ -1,7 +1,6 @@
 <html>
 <head>
 <meta charset="utf-8">
- </meta>
 <title>陳玠筑</title>
 </head>
 
