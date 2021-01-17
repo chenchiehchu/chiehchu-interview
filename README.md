@@ -2,7 +2,7 @@
 <head>
 <meta charset="utf-8">
 </head>
-<body style="background-color:#E8FFFF;">
+<body style="background-color:#FFF2F2;">
 <body>
 <h3>兩百字內的個人簡介</h3>
 <p>陳玠筑，目前任職於遠洋漁業貿易公司，工作經歷九年，專業領域為遠洋漁業的國際貿易實務，進出口文件、船務相關作業。<br>
